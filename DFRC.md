@@ -17,18 +17,40 @@ Formado em Design, mas desenvolvedor de coração, sempre fui muito curioso e me
 Buscando atuação na **área de liderança de Produto**, integrando minha formação em **design** e ampla experiência nas **áreas comerciais e de tecnologia** para conduzir produtos do conceito ao mercado, gerando valor estratégico para a organização.
 
 ## Competências Técnicas e Estratégicas  
-- **Gestão de Produto:** Estratégia Go-to-Market (GTM), Shape Up, SCRUM, OKRs, Product-Led Growth (PLG)  
-- **Desenvolvimento:** Backbone.js, Node.js, MongoDB, AWS (EC2, S3, SQS)  
-- **Comercial:** PipeDrive, RD Station, ClickSign, HubSpot  
+**Direção de Produto:** Definição de visão de produto, planejamento de backlog e releases, análise de mercado.  
+**Metodologias:** OKR, SCRUM, Kanban, Shape Up.  
+**Desenvolvimento:** JavaScript, SQL, Node.js, Backbone.js, MongoDB, AWS (EC2, S3, SQS).  
+**Comercial:** PipeDrive, RD Station, ClickSign, HubSpot.
 
 ## Formação Acadêmica  
 `Jan/2007 – Jul/2012`  
 **Design Gráfico** – Universidade Federal de Santa Catarina (UFSC)  
 Durante minha formação em **Design Gráfico**, direcionei meu interesse e foco para áreas como **Design de Produto, Interface do Usuário (UI), Usabilidade** e **Ergonomia**. Essa abordagem me preparou para desenvolver soluções inovadoras em ambientes digitais e interativos, combinando aspectos teóricos e práticos com foco na experiência do usuário e na acessibilidade.
 
+`Jan/2003 – Dez/2005`  
+**Técnico em Eletrônica** – SATC  
+Formação técnica com enfoque em telecomunicações, desenvolvendo habilidades aplicadas em infraestrutura e suporte tecnológico.
+
+## Cursos e Formações  
 `Jul/2018`  
 **Líder do Futuro** – [Crescimentum](https://crescimentum.com.br/)  
 Participação em programa de desenvolvimento de habilidades de liderança, com foco em autoconhecimento, gestão de pessoas e liderança estratégica.
+
+`Jan/2008 – Dez/2009`  
+**Inglês Intermediário e Avançado** – Programa de extensão acadêmica da UFSC  
+Conclusão dos níveis intermediário e avançado em inglês, com foco em conversação e compreensão escrita.  
+
+`Mar/2012`  
+**Gestão Tributária para Startups** – ACATE  
+Curso focado em tributações específicas para startups e estratégias fiscais eficientes para novos negócios.  
+
+`Nov/2012`  
+**Gestão de Projetos – PMBOK** – ACATE  
+Curso completo de **80 horas** com base nas diretrizes do PMBOK, capacitando para a gestão eficiente de projetos em todas as fases de execução.
+
+`Ago/2013`  
+**Gestão Ágil e SCRUM** – ACATE  
+Curso sobre aplicação de metodologias ágeis e SCRUM em projetos de tecnologia e inovação.  
 
 ## Prêmios e Programas  
 [**InovAtiva**](https://www.inovativa.online/)  
